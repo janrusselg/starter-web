@@ -10,5 +10,9 @@ this is a sample web project
 
 Sample website with plenty of files for demos
 
-###Copyright
+## How to Contribute
+
+please fork this repository then issue Pull Requests for review.
+
+### Copyright
 JanRusselCopyright
